@@ -1,0 +1,23 @@
+.badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 14px;
+  margin: 8px;
+  border-radius: 8px;
+  background-color: #e1fcb6;
+  border: 1px solid #331818;
+}
+
+.badge-label {
+  font-weight: bold;
+  color: #555;
+}
+
+.badge-value {
+  background-color: #56f18a;
+  color: white;
+  padding: 4px 8px;
+  border-radius: 6px;
+  font-size: 14px;
+}

@@ -1,0 +1,24 @@
+.app {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 6rem;
+  text-align: center;
+  margin-left: 400px;
+  background-color: #fea;
+  border: #333 2px solid;
+  border-radius: 12px;
+  background-image: url('./assets/background-image.jpg');
+}
+
+h1 {
+  color: #572525;
+  margin-bottom: 1.5rem;
+  margin-top: -60px;
+
+}
+
+.Badge {
+  font-size: 24px;
+  font-weight: bold;
+  color: #382e23;
+}
